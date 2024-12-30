@@ -128,6 +128,9 @@ header {
     padding: 15px;
     font-size: 1.1rem;
 }
+.container-left-part>a:hover{
+    color:white;
+}
 .companies-section {
     padding-top: 10px;
 }
@@ -521,6 +524,10 @@ header {
 }
 .button-section>a {
     color: white;
+
+}
+.button-section>a:hover{
+    color:white;
 }
 .button-section>.a1 {
     border: 1px solid #2294ED;
@@ -566,6 +573,9 @@ header {
     width: 130px;
     color: white;
     text-align: center;
+}
+.start-testing>a:hover{
+    color:white;
 }
 .footer-top-part {
     display: flex;
